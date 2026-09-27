@@ -1,9 +1,11 @@
 {
-  "name": "ai-to-agent-scrapling-mcp",
-  "version": "0.1.1",
+  "name": "ai-to-agent-web-intelligence-mcp",
+  "version": "0.1.2",
   "date": "2026-09-27",
   "type": "integration-guide-and-workflow",
   "author_display": "AI Coach 益力康陳董 x CGM Coach 血糖教練 | 2026 AI to Agent",
   "license": "CC-BY-SA-4.0",
-  "remote_repository": null
+  "remote_repository": "https://github.com/draiagent/ai-to-agent-web-intelligence-mcp",
+  "display_name": "AI to Agent Web Intelligence MCP",
+  "implementation_status": "documentation-and-examples; custom MCP not implemented"
 }

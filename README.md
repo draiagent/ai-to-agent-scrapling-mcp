@@ -1,12 +1,22 @@
-# AI to Agent x Scrapling MCP
+# AI to Agent Web Intelligence MCP
 
 把外部網頁資料整理成可追溯、可比較、可交接的企業情報。
 
-**版本 0.1.1｜2026-09-27｜整合指南與工作流教材｜授權 CC BY-SA 4.0**
+**版本 0.1.2｜2026-09-27｜整合指南與工作流教材｜授權 CC BY-SA 4.0**
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE) ![版本](https://img.shields.io/badge/version-0.1.1-blue)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE) ![版本](https://img.shields.io/badge/version-0.1.2-blue)
 
 ![從網頁感知到企業情報：AI to Agent x Scrapling MCP](assets/01-overview.png)
+
+## 統一命名
+
+- Repository：`ai-to-agent-web-intelligence-mcp`
+- 專案：AI to Agent Web Intelligence MCP
+- 底層：Scrapling 官方 MCP
+- 核心：企業情報工作流與 Knowledge Pipeline
+- 圖卡：AI to Agent × Scrapling MCP，為底層工具整合的視覺介紹標題。
+
+名稱中的 MCP 表達整合方向，不代表已交付自訂 MCP Server。此版為文件、設定與示範資料。
 
 ## 為什麼建立這個專案
 
@@ -77,9 +87,11 @@
 | [LICENSE](LICENSE) | CC BY-SA 4.0 授權全文 |
 | [VERSION](VERSION) | 版本號單一來源 |
 
+[社群平台完整介紹與三個模擬案例](docs/social-post.md)｜[命名規範](docs/naming.md)
+
 ## 版本與未來計畫
 
-版本來源為 VERSION（project.json 同步）。0.1.1 是文件初版，不是自訂伺服器穩定版。本次未進行三個客戶端的連線測試。後續可加入版本鎖定、排程、差異追蹤及知識庫寫入，但須分別實作及驗收。
+版本來源為 VERSION（project.json 同步）。0.1.2 是文件初版，不是自訂伺服器穩定版。本次未進行三個客戶端的連線測試。後續可加入版本鎖定、排程、差異追蹤及知識庫寫入，但須分別實作及驗收。
 
 ## 授權與作者
 

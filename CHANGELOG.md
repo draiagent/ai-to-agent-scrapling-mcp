@@ -1,11 +1,20 @@
 # 變更紀錄
 
-## 0.1.1 — 2026-09-27
+## 0.1.2 — 2026-09-27
 
-### 發布前調整
-- 授權定為 CC BY-SA 4.0，LICENSE 換成完整條款；同步 README、COPYRIGHT、VALIDATION、project.json。
-- 新增 VERSION 與 Repo Check CI。
-- 法律權利人確認為 AI Coach 益力康陳董（見 COPYRIGHT.md）。
+### 修正
+- 恢復正式名稱 ai-to-agent-web-intelligence-mcp，統一 metadata、文件、根目錄與 ZIP。
+- 分開專案品牌、圖卡標題及底層工具名稱。
+
+### 發布調整
+- 沿用 0.1.1 發布時的 CC BY-SA 4.0 授權與法律權利人（AI Coach 益力康陳董）；VERSION 與 Repo Check CI 保留。
+- GitHub repo 由 ai-to-agent-scrapling-mcp 改名為 ai-to-agent-web-intelligence-mcp（舊網址自動轉址）。
+
+### 新增
+- 完整社群文章、三個模擬提示詞案例與命名規範。
+- 保留原稿、圖卡、既有版本歷史；未新增自訂伺服器。
+
+## 0.1.1 — 2026-09-27
 
 ### 修正
 - 補充 StealthyFetcher 切換 Patchright 的明確版本來源。
