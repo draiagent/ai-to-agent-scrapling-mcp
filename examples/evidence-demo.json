@@ -1,0 +1,23 @@
+{
+  "simulation": true,
+  "records": [
+    {
+      "evidence_id": "DEMO-001",
+      "supplier": "示範供應商 A",
+      "source_url": null,
+      "retrieved_at": null,
+      "product": "示範原料",
+      "package_g": 1000,
+      "price": null,
+      "currency": null,
+      "excerpt": null,
+      "status": "not_fetched",
+      "missing_fields": [
+        "source_url",
+        "price",
+        "currency"
+      ],
+      "note": "教學假資料；未實際擷取"
+    }
+  ]
+}
