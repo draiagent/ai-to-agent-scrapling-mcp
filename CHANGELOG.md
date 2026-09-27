@@ -5,6 +5,7 @@
 ### 發布前調整
 - 授權定為 CC BY-SA 4.0，LICENSE 換成完整條款；同步 README、COPYRIGHT、VALIDATION、project.json。
 - 新增 VERSION 與 Repo Check CI。
+- 法律權利人確認為 AI Coach 益力康陳董（見 COPYRIGHT.md）。
 
 ### 修正
 - 補充 StealthyFetcher 切換 Patchright 的明確版本來源。
